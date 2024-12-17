@@ -5,7 +5,8 @@
       "email": "sangusaishanmukha@gmail.com",
       "name": "shanu",
       "favorite_game": "cricket",
-      "password": "2003"
+      "password": "2003",
+      "lastLogin": "2024-12-16T12:30:31.700Z"
     },
     {
       "id": "6966",
@@ -43,13 +44,62 @@
       "password": "123"
     }
   ],
-  "availableTurfs":[
-    {  "name": "Seaside Turf", "image": "./Images/turf1.jpg","type":"Cricket", "price": 1000, "location": "Beach Road", "rating": 4.5 },
-      {  "name": "Urban Playfield", "image": "./Images/turf2.jpg","type":"Cricket", "price": 800, "location": "MVP Colony", "rating": 4.0 },
-      {  "name": "Greenfield Ground", "image": "./Images/turf3.jpg","type":"Cricket", "price": 600, "location": "Gajuwaka", "rating": 4.7 },
-      {  "name": "Stadium Turf", "image": "./Images/turf4.jpg","type":"Cricket", "price": 600, "location": "Dwaraka Nagar", "rating": 4.3 },
-      {  "name": "Hilltop Sports", "image": "./Images/turf5.jpg","type":"Cricket", "price": 700, "location": "Simhachalam", "rating": 4.2 },
-      {  "name": "City Sports Arena", "image": "./Images/turf6.jpg","type":"Cricket", "price": 800, "location": "Siripuram", "rating": 4.6 },
-      {  "name": "Hey Games", "image": "./Images/turf7.jpg","type":"Cricket", "price": 1000, "location": "Rushikonda", "rating": 4.8 }
+  "availableTurfs": [
+    {
+      "name": "Seaside Turf",
+      "image": "./images/turf1.jpg",
+      "type": "Cricket",
+      "price": 1000,
+      "location": "Beach Road",
+      "rating": 4.5
+    },
+    {
+      "name": "Urban Playfield",
+      "image": "./images/turf2.jpg",
+      "type": "Cricket",
+      "price": 800,
+      "location": "MVP Colony",
+      "rating": 4
+    },
+    {
+      "name": "Greenfield Ground",
+      "image": "./images/turf3.jpg",
+      "type": "Cricket",
+      "price": 600,
+      "location": "Gajuwaka",
+      "rating": 4.7
+    },
+    {
+      "name": "Stadium Turf",
+      "image": "./images/turf4.jpg",
+      "type": "Cricket",
+      "price": 600,
+      "location": "Dwaraka Nagar",
+      "rating": 4.3
+    },
+    {
+      "name": "Hilltop Sports",
+      "image": "./images/turf5.jpg",
+      "type": "Cricket",
+      "price": 700,
+      "location": "Simhachalam",
+      "rating": 4.2
+    },
+    {
+      "name": "City Sports Arena",
+      "image": "./images/turf6.jpg",
+      "type": "Cricket",
+      "price": 800,
+      "location": "Siripuram",
+      "rating": 4.6
+    },
+    {
+      "name": "Hey Games",
+      "image": "./images/turf7.jpg",
+      "type": "Cricket",
+      "price": 1000,
+      "location": "Rushikonda",
+      "rating": 4.8
+    }
   ]
 }
