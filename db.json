@@ -5,15 +5,17 @@
       "email": "sangusaishanmukha@gmail.com",
       "name": "shanu",
       "favorite_game": "cricket",
-      "password": "2003",
-      "lastLogin": "2024-12-16T12:30:31.700Z"
+      "password": "2003123",
+      "lastLogin": "2024-12-16T12:30:31.700Z",
+      "bookings":[]
     },
     {
       "id": "6966",
       "email": "vinu@gmail.com",
       "name": "vinu",
       "favorite_game": "football",
-      "password": "2003"
+      "password": "2003123",
+      "bookings":[]
     }
     
     
@@ -26,7 +28,8 @@
       "type": "Cricket",
       "price": 1000,
       "location": "Beach Road",
-      "rating": 4.5
+      "rating": 4.5,
+      "bookings":[]
     },
     {
       "id":2,
@@ -35,7 +38,8 @@
       "type": "Cricket",
       "price": 800,
       "location": "MVP Colony",
-      "rating": 4
+      "rating": 4,
+      "bookings":[]
     },
     {
       "id":3,
@@ -44,7 +48,8 @@
       "type": "Cricket",
       "price": 600,
       "location": "Gajuwaka",
-      "rating": 4.7
+      "rating": 4.7,
+      "bookings":[]
     },
     {
       "id":4,
@@ -53,7 +58,8 @@
       "type": "Cricket",
       "price": 600,
       "location": "Dwaraka Nagar",
-      "rating": 4.3
+      "rating": 4.3,
+      "bookings":[]
     },
     {
       "id":5,
@@ -62,7 +68,8 @@
       "type": "Cricket",
       "price": 700,
       "location": "Simhachalam",
-      "rating": 4.2
+      "rating": 4.2,
+      "bookings":[]
     },
     {
       "id":6,
@@ -71,7 +78,8 @@
       "type": "Cricket",
       "price": 800,
       "location": "Siripuram",
-      "rating": 4.6
+      "rating": 4.6,
+      "bookings":[]
     },
     {
       "id":7,
@@ -80,7 +88,8 @@
       "type": "Cricket",
       "price": 1000,
       "location": "Rushikonda",
-      "rating": 4.8
+      "rating": 4.8,
+      "bookings":[]
     }
   ]
 }
